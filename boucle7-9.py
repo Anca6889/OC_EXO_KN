@@ -13,7 +13,7 @@ for nombre in list1:
 for nombre in range(1, 10):
     print(nombre)
     if nombre == 3:
-        pass
+        print()
     if nombre == 9:
         break
 
