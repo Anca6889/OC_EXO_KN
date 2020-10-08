@@ -4,7 +4,7 @@ def voyellecount():
     print("Pour sortir de la boucle suivante, il suffira d'entrer le mot \"fin.\n\n")
 
 
-    mot = "quelconque"
+    mot = ""
     while mot != "fin":
         mot = input("Rentrez un mot (sans accent) : ")
         # on met toutes les letres en minuscules
